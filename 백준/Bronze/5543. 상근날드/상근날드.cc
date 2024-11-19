@@ -10,7 +10,7 @@ int main() {
 	int drink[2] = { 0, };
 	cin >> drink[0];
 	cin >> drink[1];
-	int min = 400000;
+	int min = 40000;
 	for (int i = 0; i < 3; i++) {
 		for (int j = 0; j < 2; j++) {
 			if (min > burger[i] + drink[j]) {
