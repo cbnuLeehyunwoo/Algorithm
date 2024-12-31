@@ -3,9 +3,9 @@
 #include <string>
 
 using namespace std;
-				 
+
 int main() {
-	unsigned long int N;
+    int N;
 	cin >> N;
 	string str = to_string(N);
 
