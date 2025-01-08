@@ -1,12 +1,12 @@
 #include <iostream>
+#include <string>
+
 using namespace std;
 
 int main() {
-	ios::sync_with_stdio(0);
-	cin.tie(0);
-
-	int T; cin >> T;
-	for (int t = 1; t <= T; t++) {
-		cout << "Material Management " << t << '\n' << "Classification ---- End!\n";
+	int N = 0;
+	cin >> N;
+	for (int i = 0; i < N; i++) {
+		cout << "Material Management " << i + 1 << "\n" << "Classification ---- End!\n";
 	}
 }
