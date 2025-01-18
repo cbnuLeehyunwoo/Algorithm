@@ -40,7 +40,7 @@ void BFS(int x, int y) {
 		for(int i = 0; i < 8; i++) {
 			int nx = x + dx[i];
 			int ny = y + dy[i];
-			if (0 <= nx && 0 <= ny && nx < w && ny < h && !visited[nx][ny] && map[nx][ny] == 1) {
+			if (0 <= nx && 0 <= ny && nx < h && ny < w && !visited[nx][ny] && map[nx][ny] == 1) {
 				q.push({ nx, ny });
 				visited[nx][ny] = true;
 			}
@@ -52,20 +52,20 @@ int main()
 {
 	while (true) {
 
-		cin >> h >> w; 
+		cin >> w >> h; 
 		if (w == 0 && h == 0) {
 			return 0;
 		}
 
 		init();
-		for (int i = 0; i < w; i++) {
-			for (int j = 0; j < h; j++) {
+		for (int i = 0; i < h; i++) {
+			for (int j = 0; j < w; j++) {
 				cin >> map[i][j];
 			}
 		}
 
-		for (int i = 0; i < w; i++) {
-			for (int j = 0; j < h; j++) {
+		for (int i = 0; i < h; i++) {
+			for (int j = 0; j < w; j++) {
 				if (map[i][j] == 1 && !visited[i][j]) {
 					BFS(i, j);
 					res++;
