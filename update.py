@@ -71,8 +71,9 @@ def main():
                     continue
                 
                 for problem in sorted(tiers[tier]):  # 문제번호 순 정렬
-                    tier_icon = TIER_ICONS.get(problem[0], "❔")
-                    readme.write(f"| {tier_icon} {problem[0]} | [문제]({problem[1]}) |\n")
+                    tier_icon = TIER_ICONS.get(tier, "❔")  # tier 값을 이용해서 아이콘 설정
+                    problem_number = os.path.basename(problem[1])  # 문제번호는 파일 이름에서 가져옴
+                    readme.write(f"| {tier_icon} {tier} | [문제 {problem_number}]({problem[1]}) |\n")
 
     # 📄 solved_problems.md 생성 (전체 문제 목록)
     with open("solved_problems.md", "w") as details:
@@ -85,8 +86,9 @@ def main():
             
             for tier in sorted_tiers:
                 for problem in sorted(tiers[tier]):
-                    tier_icon = TIER_ICONS.get(problem[0], "❔")
-                    details.write(f"| {tier_icon} {problem[0]} | [문제]({problem[1]}) |\n")
+                    tier_icon = TIER_ICONS.get(tier, "❔")  # tier 값을 이용해서 아이콘 설정
+                    problem_number = os.path.basename(problem[1])  # 문제번호는 파일 이름에서 가져옴
+                    details.write(f"| {tier_icon} {tier} | [문제 {problem_number}]({problem[1]}) |\n")
 
 if __name__ == "__main__":
     main()
