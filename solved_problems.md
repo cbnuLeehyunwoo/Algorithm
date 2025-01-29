@@ -145,6 +145,8 @@
 | ❔ 1267. 핸드폰 요금 | [문제](./%EB%B0%B1%EC%A4%80/Bronze/1267.%E2%80%85%ED%95%B8%EB%93%9C%ED%8F%B0%E2%80%85%EC%9A%94%EA%B8%88/README.md) |
 | ❔ 28691. 정보보호학부 동아리 소개 | [문제](./%EB%B0%B1%EC%A4%80/Bronze/28691.%E2%80%85%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99%EB%B6%80%E2%80%85%EB%8F%99%EC%95%84%EB%A6%AC%E2%80%85%EC%86%8C%EA%B0%9C/%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99%EB%B6%80%E2%80%85%EB%8F%99%EC%95%84%EB%A6%AC%E2%80%85%EC%86%8C%EA%B0%9C.cc) |
 | ❔ 28691. 정보보호학부 동아리 소개 | [문제](./%EB%B0%B1%EC%A4%80/Bronze/28691.%E2%80%85%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99%EB%B6%80%E2%80%85%EB%8F%99%EC%95%84%EB%A6%AC%E2%80%85%EC%86%8C%EA%B0%9C/README.md) |
+| ❔ 29699. Welcome to SMUPC！ | [문제](./%EB%B0%B1%EC%A4%80/Bronze/29699.%E2%80%85Welcome%E2%80%85to%E2%80%85SMUPC%EF%BC%81/README.md) |
+| ❔ 29699. Welcome to SMUPC！ | [문제](./%EB%B0%B1%EC%A4%80/Bronze/29699.%E2%80%85Welcome%E2%80%85to%E2%80%85SMUPC%EF%BC%81/Welcome%E2%80%85to%E2%80%85SMUPC%EF%BC%81.cc) |
 | ❔ 1159. 농구 경기 | [문제](./%EB%B0%B1%EC%A4%80/Bronze/1159.%E2%80%85%EB%86%8D%EA%B5%AC%E2%80%85%EA%B2%BD%EA%B8%B0/%EB%86%8D%EA%B5%AC%E2%80%85%EA%B2%BD%EA%B8%B0.cc) |
 | ❔ 1159. 농구 경기 | [문제](./%EB%B0%B1%EC%A4%80/Bronze/1159.%E2%80%85%EB%86%8D%EA%B5%AC%E2%80%85%EA%B2%BD%EA%B8%B0/README.md) |
 | ❔ 27433. 팩토리얼 2 | [문제](./%EB%B0%B1%EC%A4%80/Bronze/27433.%E2%80%85%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%E2%80%852/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%E2%80%852.cc) |
@@ -642,9 +644,9 @@
 | ❔ origin | [문제](./.git/refs/remotes/origin/main) |
 
 ## 📚 objects
-| ❔ pack | [문제](./.git/objects/pack/pack-ed79f82138b87d097a3a07269855629f638951ad.idx) |
-| ❔ pack | [문제](./.git/objects/pack/pack-ed79f82138b87d097a3a07269855629f638951ad.pack) |
-| ❔ pack | [문제](./.git/objects/pack/pack-ed79f82138b87d097a3a07269855629f638951ad.rev) |
+| ❔ pack | [문제](./.git/objects/pack/pack-6aabdc4f6ce143cbe5b98d1c70bfdd0fa4aad4c7.idx) |
+| ❔ pack | [문제](./.git/objects/pack/pack-6aabdc4f6ce143cbe5b98d1c70bfdd0fa4aad4c7.pack) |
+| ❔ pack | [문제](./.git/objects/pack/pack-6aabdc4f6ce143cbe5b98d1c70bfdd0fa4aad4c7.rev) |
 
 ## 📚 logs
 
