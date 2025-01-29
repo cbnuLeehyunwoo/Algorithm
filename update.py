@@ -3,14 +3,14 @@
 import os
 from urllib import parse
 
-# 🏆 티어별 아이콘 매핑
+# 🏆 티어별 아이콘 매핑 (영어 티어 이름 사용)
 TIER_ICONS = {
-    "루비": "❤️", "다이아몬드": "💎", "플래티넘": "🔮",
-    "골드": "🏅", "실버": "🥈", "브론즈": "🥉", "unrated": "❔"
+    "ruby": "❤️", "diamond": "💎", "platinum": "🔮",
+    "gold": "🏅", "silver": "🥈", "bronze": "🥉", "unrated": "❔"
 }
 
 # 티어 우선순위 (내림차순 정렬)
-TIER_ORDER = {tier: i for i, tier in enumerate(["루비", "다이아몬드", "플래티넘", "골드", "실버", "브론즈", "unrated"])}
+TIER_ORDER = {tier: i for i, tier in enumerate(["ruby", "diamond", "platinum", "gold", "silver", "bronze", "unrated"])}
 
 # 📌 README 개요 (골드 이상 문제만 표시)
 README_HEADER = """# 📌 백준 알고리즘 문제 풀이 목록
@@ -43,7 +43,7 @@ def main():
         if root in ('.', './.git', './.github', './images'):
             continue
         
-        tier = os.path.basename(root)  # 현재 폴더의 티어
+        tier = os.path.basename(root).lower()  # 영어 티어 이름으로 변환
         parent_dir = os.path.basename(os.path.dirname(root))  # 상위 폴더 (ex: 백준, 프로그래머스)
         
         if parent_dir == '.':
@@ -67,7 +67,7 @@ def main():
             sorted_tiers = sorted(tiers.keys(), key=get_tier_priority)
             
             for tier in sorted_tiers:
-                if tier not in ["루비", "다이아몬드", "플래티넘", "골드"]:  # 📌 실버 이하 문제는 제외
+                if tier not in ["ruby", "diamond", "platinum", "gold"]:  # 📌 실버 이하 문제는 제외
                     continue
                 
                 for problem in sorted(tiers[tier]):  # 문제번호 순 정렬
