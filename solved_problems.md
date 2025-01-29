@@ -151,6 +151,8 @@
 | ❔ 29699. Welcome to SMUPC！ | [문제 Welcome%E2%80%85to%E2%80%85SMUPC%EF%BC%81.cc](./%EB%B0%B1%EC%A4%80/Bronze/29699.%E2%80%85Welcome%E2%80%85to%E2%80%85SMUPC%EF%BC%81/Welcome%E2%80%85to%E2%80%85SMUPC%EF%BC%81.cc) |
 | ❔ 1159. 농구 경기 | [문제 %EB%86%8D%EA%B5%AC%E2%80%85%EA%B2%BD%EA%B8%B0.cc](./%EB%B0%B1%EC%A4%80/Bronze/1159.%E2%80%85%EB%86%8D%EA%B5%AC%E2%80%85%EA%B2%BD%EA%B8%B0/%EB%86%8D%EA%B5%AC%E2%80%85%EA%B2%BD%EA%B8%B0.cc) |
 | ❔ 1159. 농구 경기 | [문제 README.md](./%EB%B0%B1%EC%A4%80/Bronze/1159.%E2%80%85%EB%86%8D%EA%B5%AC%E2%80%85%EA%B2%BD%EA%B8%B0/README.md) |
+| ❔ 33170. ブラックジャック （Blackjack） | [문제 %E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E2%80%85%EF%BC%88Blackjack%EF%BC%89.cc](./%EB%B0%B1%EC%A4%80/Bronze/33170.%E2%80%85%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E2%80%85%EF%BC%88Blackjack%EF%BC%89/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E2%80%85%EF%BC%88Blackjack%EF%BC%89.cc) |
+| ❔ 33170. ブラックジャック （Blackjack） | [문제 README.md](./%EB%B0%B1%EC%A4%80/Bronze/33170.%E2%80%85%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E2%80%85%EF%BC%88Blackjack%EF%BC%89/README.md) |
 | ❔ 27433. 팩토리얼 2 | [문제 %ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%E2%80%852.cc](./%EB%B0%B1%EC%A4%80/Bronze/27433.%E2%80%85%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%E2%80%852/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%E2%80%852.cc) |
 | ❔ 27433. 팩토리얼 2 | [문제 README.md](./%EB%B0%B1%EC%A4%80/Bronze/27433.%E2%80%85%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%E2%80%852/README.md) |
 | ❔ 10250. ACM 호텔 | [문제 ACM%E2%80%85%ED%98%B8%ED%85%94.cc](./%EB%B0%B1%EC%A4%80/Bronze/10250.%E2%80%85ACM%E2%80%85%ED%98%B8%ED%85%94/ACM%E2%80%85%ED%98%B8%ED%85%94.cc) |
@@ -648,9 +650,9 @@
 | ❔ origin | [문제 main](./.git/refs/remotes/origin/main) |
 
 ## 📚 objects
-| ❔ pack | [문제 pack-c5b4a9d4517c3c8340567e6bd9d167a413bce3ba.idx](./.git/objects/pack/pack-c5b4a9d4517c3c8340567e6bd9d167a413bce3ba.idx) |
-| ❔ pack | [문제 pack-c5b4a9d4517c3c8340567e6bd9d167a413bce3ba.pack](./.git/objects/pack/pack-c5b4a9d4517c3c8340567e6bd9d167a413bce3ba.pack) |
-| ❔ pack | [문제 pack-c5b4a9d4517c3c8340567e6bd9d167a413bce3ba.rev](./.git/objects/pack/pack-c5b4a9d4517c3c8340567e6bd9d167a413bce3ba.rev) |
+| ❔ pack | [문제 pack-1d42ff53f46f8959f6fe8bbdeea4c59e2a8ca5f5.idx](./.git/objects/pack/pack-1d42ff53f46f8959f6fe8bbdeea4c59e2a8ca5f5.idx) |
+| ❔ pack | [문제 pack-1d42ff53f46f8959f6fe8bbdeea4c59e2a8ca5f5.pack](./.git/objects/pack/pack-1d42ff53f46f8959f6fe8bbdeea4c59e2a8ca5f5.pack) |
+| ❔ pack | [문제 pack-1d42ff53f46f8959f6fe8bbdeea4c59e2a8ca5f5.rev](./.git/objects/pack/pack-1d42ff53f46f8959f6fe8bbdeea4c59e2a8ca5f5.rev) |
 
 ## 📚 logs
 
