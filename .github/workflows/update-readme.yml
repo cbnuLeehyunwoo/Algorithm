@@ -24,7 +24,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install python-leetcode 
     - name: Run update.py
-      run: python .github/workflows/update.py
+      run: python update.py
     - name: Commit changes
       run: |
         git config --global user.name 'github-actions[bot]'
