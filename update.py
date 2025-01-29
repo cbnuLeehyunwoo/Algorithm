@@ -19,8 +19,10 @@ def is_gold_or_above(category):
 def main():
     content = ""
     content += HEADER
-
-    # 골드 이상 문제를 따로 저장할 내용
+    
+    directories = []
+    solveds = []
+    
     gold_content = {
         "Gold": "",
         "Platinum": "",
@@ -28,7 +30,6 @@ def main():
         "Ruby": ""
     }
     
-    # 모든 티어별 문제를 저장할 딕셔너리
     tier_contents = {
         "Bronze": "",
         "Silver": "",
@@ -39,10 +40,6 @@ def main():
         "Ruby": ""
     }
 
-    directories = []
-    solveds = []
-
-    # 파일 트리 탐색
     for root, dirs, files in os.walk("."):
         dirs.sort()
         if root == '.':
@@ -57,20 +54,29 @@ def main():
 
         if category == 'images':
             continue
-
+        
         directory = os.path.basename(os.path.dirname(root))
-
+        
         if directory == '.':
             continue
+            
+        if directory not in directories:
+            if directory in ["백준", "프로그래머스"]:
+                content += "## 📚 {}\n".format(directory)
+            else:
+                content += "### 🚀 {}\n".format(directory)
+                content += "| 문제번호 | 링크 |\n"
+                content += "| ----- | ----- |\n"
+            directories.append(directory)
 
-        # 각 문제를 해당 카테고리 별로 분류
         for file in files:
             problem_link = parse.quote(os.path.join(root, file))
 
+            # 모든 문제는 티어별로 분류
             if category in tier_contents:
                 tier_contents[category] += "|{}|[링크]({})|\n".format(file, problem_link)
 
-                # 골드 이상 문제는 골드 별로 구분
+                # 골드 이상 문제는 별도로 구분
                 if is_gold_or_above(category):
                     gold_content[category] += "|{}|[링크]({})|\n".format(file, problem_link)
 
