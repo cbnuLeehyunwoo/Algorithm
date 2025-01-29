@@ -352,6 +352,8 @@
 | ❔ 13118. 뉴턴과 사과 | [문제 README.md](./%EB%B0%B1%EC%A4%80/Bronze/13118.%E2%80%85%EB%89%B4%ED%84%B4%EA%B3%BC%E2%80%85%EC%82%AC%EA%B3%BC/README.md) |
 | ❔ 28444. hi－arc＝？ | [문제 HI%EF%BC%8DARC%EF%BC%9D%EF%BC%9F.cc](./%EB%B0%B1%EC%A4%80/Bronze/28444.%E2%80%85HI%EF%BC%8DARC%EF%BC%9D%EF%BC%9F/HI%EF%BC%8DARC%EF%BC%9D%EF%BC%9F.cc) |
 | ❔ 28444. hi－arc＝？ | [문제 README.md](./%EB%B0%B1%EC%A4%80/Bronze/28444.%E2%80%85HI%EF%BC%8DARC%EF%BC%9D%EF%BC%9F/README.md) |
+| ❔ 33169. 所持金 （money on me） | [문제 %E6%89%80%E6%8C%81%E9%87%91%E2%80%85%EF%BC%88Money%E2%80%85On%E2%80%85Me%EF%BC%89.cc](./%EB%B0%B1%EC%A4%80/Bronze/33169.%E2%80%85%E6%89%80%E6%8C%81%E9%87%91%E2%80%85%EF%BC%88Money%E2%80%85On%E2%80%85Me%EF%BC%89/%E6%89%80%E6%8C%81%E9%87%91%E2%80%85%EF%BC%88Money%E2%80%85On%E2%80%85Me%EF%BC%89.cc) |
+| ❔ 33169. 所持金 （money on me） | [문제 README.md](./%EB%B0%B1%EC%A4%80/Bronze/33169.%E2%80%85%E6%89%80%E6%8C%81%E9%87%91%E2%80%85%EF%BC%88Money%E2%80%85On%E2%80%85Me%EF%BC%89/README.md) |
 | ❔ 2455. 지능형 기차 | [문제 %EC%A7%80%EB%8A%A5%ED%98%95%E2%80%85%EA%B8%B0%EC%B0%A8.cc](./%EB%B0%B1%EC%A4%80/Bronze/2455.%E2%80%85%EC%A7%80%EB%8A%A5%ED%98%95%E2%80%85%EA%B8%B0%EC%B0%A8/%EC%A7%80%EB%8A%A5%ED%98%95%E2%80%85%EA%B8%B0%EC%B0%A8.cc) |
 | ❔ 2455. 지능형 기차 | [문제 README.md](./%EB%B0%B1%EC%A4%80/Bronze/2455.%E2%80%85%EC%A7%80%EB%8A%A5%ED%98%95%E2%80%85%EA%B8%B0%EC%B0%A8/README.md) |
 | ❔ 2501. 약수 구하기 | [문제 %EC%95%BD%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0.cc](./%EB%B0%B1%EC%A4%80/Bronze/2501.%E2%80%85%EC%95%BD%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/%EC%95%BD%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0.cc) |
@@ -646,9 +648,9 @@
 | ❔ origin | [문제 main](./.git/refs/remotes/origin/main) |
 
 ## 📚 objects
-| ❔ pack | [문제 pack-f5d712142b0fccffe0b251d258b43b41f3ba0711.idx](./.git/objects/pack/pack-f5d712142b0fccffe0b251d258b43b41f3ba0711.idx) |
-| ❔ pack | [문제 pack-f5d712142b0fccffe0b251d258b43b41f3ba0711.pack](./.git/objects/pack/pack-f5d712142b0fccffe0b251d258b43b41f3ba0711.pack) |
-| ❔ pack | [문제 pack-f5d712142b0fccffe0b251d258b43b41f3ba0711.rev](./.git/objects/pack/pack-f5d712142b0fccffe0b251d258b43b41f3ba0711.rev) |
+| ❔ pack | [문제 pack-96c37ee91bcf023f9b39caa2869f0b912c194e9e.idx](./.git/objects/pack/pack-96c37ee91bcf023f9b39caa2869f0b912c194e9e.idx) |
+| ❔ pack | [문제 pack-96c37ee91bcf023f9b39caa2869f0b912c194e9e.pack](./.git/objects/pack/pack-96c37ee91bcf023f9b39caa2869f0b912c194e9e.pack) |
+| ❔ pack | [문제 pack-96c37ee91bcf023f9b39caa2869f0b912c194e9e.rev](./.git/objects/pack/pack-96c37ee91bcf023f9b39caa2869f0b912c194e9e.rev) |
 
 ## 📚 logs
 
