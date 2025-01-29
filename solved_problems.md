@@ -57,6 +57,8 @@
 | ❔ 15667. 2018 연세대학교 프로그래밍 경진대회 | [문제 README.md](./%EB%B0%B1%EC%A4%80/Bronze/15667.%E2%80%852018%E2%80%85%EC%97%B0%EC%84%B8%EB%8C%80%ED%95%99%EA%B5%90%E2%80%85%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%E2%80%85%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/README.md) |
 | ❔ 24900. 한별 찍기 | [문제 %ED%95%9C%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0.txt](./%EB%B0%B1%EC%A4%80/Bronze/24900.%E2%80%85%ED%95%9C%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0/%ED%95%9C%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0.txt) |
 | ❔ 24900. 한별 찍기 | [문제 README.md](./%EB%B0%B1%EC%A4%80/Bronze/24900.%E2%80%85%ED%95%9C%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0/README.md) |
+| ❔ 33161. 鉛筆 2 （Pencils 2） | [문제 %E9%89%9B%E7%AD%86%E2%80%852%E2%80%85%EF%BC%88Pencils%E2%80%852%EF%BC%89.cc](./%EB%B0%B1%EC%A4%80/Bronze/33161.%E2%80%85%E9%89%9B%E7%AD%86%E2%80%852%E2%80%85%EF%BC%88Pencils%E2%80%852%EF%BC%89/%E9%89%9B%E7%AD%86%E2%80%852%E2%80%85%EF%BC%88Pencils%E2%80%852%EF%BC%89.cc) |
+| ❔ 33161. 鉛筆 2 （Pencils 2） | [문제 README.md](./%EB%B0%B1%EC%A4%80/Bronze/33161.%E2%80%85%E9%89%9B%E7%AD%86%E2%80%852%E2%80%85%EF%BC%88Pencils%E2%80%852%EF%BC%89/README.md) |
 | ❔ 28701. 세제곱의 합 | [문제 %EC%84%B8%EC%A0%9C%EA%B3%B1%EC%9D%98%E2%80%85%ED%95%A9.kt](./%EB%B0%B1%EC%A4%80/Bronze/28701.%E2%80%85%EC%84%B8%EC%A0%9C%EA%B3%B1%EC%9D%98%E2%80%85%ED%95%A9/%EC%84%B8%EC%A0%9C%EA%B3%B1%EC%9D%98%E2%80%85%ED%95%A9.kt) |
 | ❔ 28701. 세제곱의 합 | [문제 README.md](./%EB%B0%B1%EC%A4%80/Bronze/28701.%E2%80%85%EC%84%B8%EC%A0%9C%EA%B3%B1%EC%9D%98%E2%80%85%ED%95%A9/README.md) |
 | ❔ 2231. 분해합 | [문제 %EB%B6%84%ED%95%B4%ED%95%A9.cc](./%EB%B0%B1%EC%A4%80/Bronze/2231.%E2%80%85%EB%B6%84%ED%95%B4%ED%95%A9/%EB%B6%84%ED%95%B4%ED%95%A9.cc) |
@@ -644,9 +646,9 @@
 | ❔ origin | [문제 main](./.git/refs/remotes/origin/main) |
 
 ## 📚 objects
-| ❔ pack | [문제 pack-e820e4262c4276ee59b23d3781f0174b953c0562.idx](./.git/objects/pack/pack-e820e4262c4276ee59b23d3781f0174b953c0562.idx) |
-| ❔ pack | [문제 pack-e820e4262c4276ee59b23d3781f0174b953c0562.pack](./.git/objects/pack/pack-e820e4262c4276ee59b23d3781f0174b953c0562.pack) |
-| ❔ pack | [문제 pack-e820e4262c4276ee59b23d3781f0174b953c0562.rev](./.git/objects/pack/pack-e820e4262c4276ee59b23d3781f0174b953c0562.rev) |
+| ❔ pack | [문제 pack-661804bba1e75b1acb50c89c500d2594f50dcd3c.idx](./.git/objects/pack/pack-661804bba1e75b1acb50c89c500d2594f50dcd3c.idx) |
+| ❔ pack | [문제 pack-661804bba1e75b1acb50c89c500d2594f50dcd3c.pack](./.git/objects/pack/pack-661804bba1e75b1acb50c89c500d2594f50dcd3c.pack) |
+| ❔ pack | [문제 pack-661804bba1e75b1acb50c89c500d2594f50dcd3c.rev](./.git/objects/pack/pack-661804bba1e75b1acb50c89c500d2594f50dcd3c.rev) |
 
 ## 📚 logs
 
