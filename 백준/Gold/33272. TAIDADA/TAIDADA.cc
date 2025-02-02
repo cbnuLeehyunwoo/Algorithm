@@ -1,39 +1,36 @@
 #include <iostream>
-#include <vector>
 #include <unordered_set>
+
 using namespace std;
 
 int main() {
-    long long N, M, K;
+    int N;
+    long long M, K;
     cin >> N >> M >> K;
 
-    // N개의 숫자를 골라야 하는데 M개의 숫자 중에서 충분히 고를 수 없는 경우
+    // M개의 숫자 중에서 N개를 고를 수 없는 경우
     if (M < N) {
         cout << -1 << endl;
         return 0;
     }
 
-    vector<int> result;
-    unordered_set<int> used;
+    unordered_set<int> used; // 해시셋 사용 (순서 보장 X)
 
-    for (int i = 1; i <= M && result.size() < N; i++) {
-        if (used.find(i ^ K) == used.end()) { // XOR 조건 확인
-            result.push_back(i);
-            used.insert(i); // 사용된 수 저장
+    for (int i = 1; i <= M && used.size() < N; i++) {
+        if (used.find(i ^ K) == used.end()) { // XOR 조건 검사
+            used.insert(i); // 숫자 추가
         }
     }
 
-    // 조건을 만족하는 수열 생성 실패
-    if (result.size() < N) {
+    // 조건을 만족하는 수열을 생성하지 못한 경우
+    if (used.size() < N) {
         cout << -1 << endl;
-        return 0;
+    } else {
+        for (int num : used) {
+            cout << num << " ";
+        }
+        cout << "\n";
     }
-
-    // 결과 출력
-    for (int num : result) {
-        cout << num << " ";
-    }
-    cout << endl;
 
     return 0;
 }
