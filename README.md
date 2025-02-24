@@ -272,6 +272,7 @@
 |7891. Can you add this？|[링크](./%EB%B0%B1%EC%A4%80/Bronze/7891.%E2%80%85Can%E2%80%85you%E2%80%85add%E2%80%85this%EF%BC%9F/Can%E2%80%85you%E2%80%85add%E2%80%85this%EF%BC%9F.cc)|
 |8370. Plane|[링크](./%EB%B0%B1%EC%A4%80/Bronze/8370.%E2%80%85Plane/README.md)|
 |8393. 합|[링크](./%EB%B0%B1%EC%A4%80/Bronze/8393.%E2%80%85%ED%95%A9/%ED%95%A9.cc)|
+|8545. Zadanie próbne|[링크](./%EB%B0%B1%EC%A4%80/Bronze/8545.%E2%80%85Zadanie%E2%80%85pr%C3%B3bne/Zadanie%E2%80%85pr%C3%B3bne.cc)|
 |8958. OX퀴즈|[링크](./%EB%B0%B1%EC%A4%80/Bronze/8958.%E2%80%85OX%ED%80%B4%EC%A6%88/OX%ED%80%B4%EC%A6%88.cc)|
 |9086. 문자열|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9086.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%AC%B8%EC%9E%90%EC%97%B4.cc)|
 |9094. 수학적 호기심|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9094.%E2%80%85%EC%88%98%ED%95%99%EC%A0%81%E2%80%85%ED%98%B8%EA%B8%B0%EC%8B%AC/%EC%88%98%ED%95%99%EC%A0%81%E2%80%85%ED%98%B8%EA%B8%B0%EC%8B%AC.cc)|
