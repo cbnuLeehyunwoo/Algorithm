@@ -262,6 +262,7 @@
 |32314. Christmas Tree Adapter|[링크](./%EB%B0%B1%EC%A4%80/Bronze/32314.%E2%80%85Christmas%E2%80%85Tree%E2%80%85Adapter/Christmas%E2%80%85Tree%E2%80%85Adapter.cc)|
 |32326. Conveyor Belt Sushi|[링크](./%EB%B0%B1%EC%A4%80/Bronze/32326.%E2%80%85Conveyor%E2%80%85Belt%E2%80%85Sushi/README.md)|
 |32384. 사랑은 고려대입니다|[링크](./%EB%B0%B1%EC%A4%80/Bronze/32384.%E2%80%85%EC%82%AC%EB%9E%91%EC%9D%80%E2%80%85%EA%B3%A0%EB%A0%A4%EB%8C%80%EC%9E%85%EB%8B%88%EB%8B%A4/README.md)|
+|32498. Call for Problems|[링크](./%EB%B0%B1%EC%A4%80/Bronze/32498.%E2%80%85Call%E2%80%85for%E2%80%85Problems/README.md)|
 |32651. 인간은 무엇인가|[링크](./%EB%B0%B1%EC%A4%80/Bronze/32651.%E2%80%85%EC%9D%B8%EA%B0%84%EC%9D%80%E2%80%85%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/README.md)|
 |32929. UOS 문자열|[링크](./%EB%B0%B1%EC%A4%80/Bronze/32929.%E2%80%85UOS%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/README.md)|
 |32951. AI 선도대학|[링크](./%EB%B0%B1%EC%A4%80/Bronze/32951.%E2%80%85AI%E2%80%85%EC%84%A0%EB%8F%84%EB%8C%80%ED%95%99/AI%E2%80%85%EC%84%A0%EB%8F%84%EB%8C%80%ED%95%99.cc)|
