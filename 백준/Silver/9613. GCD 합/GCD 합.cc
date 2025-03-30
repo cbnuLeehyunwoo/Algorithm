@@ -3,17 +3,13 @@
 
 using namespace std;
 
-bool compare(int i, int j) {
-	return j < i;
-}
-
-int Euclidean_Gcd(int x, int y) {
-	x %= y;
-	if (x == 0) {
-		return y;
+int GCD(int a, int b) {
+	a %= b;
+	if (a == 0) {
+		return b;
 	}
 	else
-		return Euclidean_Gcd(y, x);
+		return GCD(b, a);
 }
 
 int main() {
@@ -33,12 +29,10 @@ int main() {
 			cin >> arr[j];
 		}
 
-		sort(arr, arr + k, compare);
-
 		for (int x = 0; x < k; x++) {
 			for (int y = x + 1; y < k; y++) {
 				if (x == y) continue;
-				res += Euclidean_Gcd(arr[x], arr[y]);
+				res += GCD(arr[x], arr[y]);
 			}
 		}
 		cout << res << "\n";
