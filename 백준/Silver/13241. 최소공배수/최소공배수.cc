@@ -1,13 +1,13 @@
 #include <iostream>
 using namespace std;
 
-int euclidean(int a, int b) {
+int GCD(int a, int b) {
 	a %= b;
 	if (a == 0) {
 		return b;
 	}
 	else {
-		return euclidean(b, a);
+		return GCD(b, a);
 	}
 }
 
@@ -19,9 +19,9 @@ int main() {
 
 	cin >> a >> b;
 	if (a > b) {
-		cout << a * b / euclidean(a, b);
+		cout << a * b / GCD(a, b);
 	}
 	else
-		cout << a * b / euclidean(b, a);
-	
+		cout << a * b / GCD(b, a);
+
 }
