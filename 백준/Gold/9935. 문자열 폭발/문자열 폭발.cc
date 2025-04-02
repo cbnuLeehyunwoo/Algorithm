@@ -1,34 +1,49 @@
 #include <iostream>
+#include <stack>
 #include <string>
+#include <algorithm>
 using namespace std;
+stack<char> s;
+string str, bomb;
+
+void printS() {
+	string temp;
+	while (!s.empty()) {
+		temp += s.top();
+		s.pop();
+	}
+	reverse(temp.begin(), temp.end());
+	cout << temp;
+}
+
+void check() {
+	if (s.size() < bomb.size()) return;
+
+	string cand;
+	for (int i = 0; i < bomb.size(); i++) {
+		cand += s.top();
+		s.pop();
+	}
+	reverse(cand.begin(), cand.end());
+	if (cand == bomb) return;
+	else {
+		for (int i = 0; i < cand.size(); i++) {
+			s.push(cand[i]);
+		}
+	}
+}
 
 int main() {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
+	cin >> str;
+	cin >> bomb;
 
-    string str, bomb;
-    cin >> str;
-    cin >> bomb;
-
-    int bomb_len = bomb.size();
-    int str_len = str.size();
-    string res = "";
-
-    for (int i = 0; i < str_len; i++) {
-        res += str[i];
-
-        if (res.size() < bomb_len) continue;
-        if (res.substr(res.size() - bomb_len, bomb_len) == bomb) { // 폭탄 문자열의 길이만큼 최우측 비교
-            res.resize(res.size() - bomb_len);
-        }
-    }
-
-    if (res.empty()) {
-        cout << "FRULA";
-    }
-    else {
-        cout << res;
-    }
-
-    return 0;
+	for (int i = 0; i < str.size(); i++) {
+		s.push(str[i]);
+		if (i < bomb.size() - 1) {
+			continue;
+		}
+		if (s.top() == bomb.back()) check();
+	}
+	if (s.empty()) cout << "FRULA";
+	else printS();
 }
