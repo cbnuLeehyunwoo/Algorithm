@@ -207,6 +207,7 @@
 |27327. 時間 （Hour）|[링크](./%EB%B0%B1%EC%A4%80/Bronze/27327.%E2%80%85%E6%99%82%E9%96%93%E2%80%85%EF%BC%88Hour%EF%BC%89/README.md)|
 |27328. 三方比較 （Three－Way Comparison）|[링크](./%EB%B0%B1%EC%A4%80/Bronze/27328.%E2%80%85%E4%B8%89%E6%96%B9%E6%AF%94%E8%BC%83%E2%80%85%EF%BC%88Three%EF%BC%8DWay%E2%80%85Comparison%EF%BC%89/README.md)|
 |27331. 2 桁の整数 （Two－digit Integer）|[링크](./%EB%B0%B1%EC%A4%80/Bronze/27331.%E2%80%852%E2%80%85%E6%A1%81%E3%81%AE%E6%95%B4%E6%95%B0%E2%80%85%EF%BC%88Two%EF%BC%8Ddigit%E2%80%85Integer%EF%BC%89/README.md)|
+|27389. Metronome|[링크](./%EB%B0%B1%EC%A4%80/Bronze/27389.%E2%80%85Metronome/README.md)|
 |2739. 구구단|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2739.%E2%80%85%EA%B5%AC%EA%B5%AC%EB%8B%A8/%EA%B5%AC%EA%B5%AC%EB%8B%A8.cc)|
 |2741. N 찍기|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2741.%E2%80%85N%E2%80%85%EC%B0%8D%EA%B8%B0/README.md)|
 |2742. 기찍 N|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2742.%E2%80%85%EA%B8%B0%EC%B0%8D%E2%80%85N/%EA%B8%B0%EC%B0%8D%E2%80%85N.cc)|
