@@ -198,6 +198,7 @@
 |2609. 최대공약수와 최소공배수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2609.%E2%80%85%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%E2%80%85%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%E2%80%85%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.cc)|
 |26209. Intercepting Information|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26209.%E2%80%85Intercepting%E2%80%85Information/Intercepting%E2%80%85Information.cc)|
 |26307. Correct|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26307.%E2%80%85Correct/Correct.cc)|
+|26489. Gum Gum for Jay Jay|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26489.%E2%80%85Gum%E2%80%85Gum%E2%80%85for%E2%80%85Jay%E2%80%85Jay/Gum%E2%80%85Gum%E2%80%85for%E2%80%85Jay%E2%80%85Jay.cc)|
 |26545. Mathematics|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26545.%E2%80%85Mathematics/Mathematics.cc)|
 |26711. A＋B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26711.%E2%80%85A%EF%BC%8BB/A%EF%BC%8BB.py)|
 |2702. 초6 수학|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2702.%E2%80%85%EC%B4%886%E2%80%85%EC%88%98%ED%95%99/%EC%B4%886%E2%80%85%EC%88%98%ED%95%99.cc)|
