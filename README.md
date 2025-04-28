@@ -200,6 +200,7 @@
 |26307. Correct|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26307.%E2%80%85Correct/Correct.cc)|
 |26489. Gum Gum for Jay Jay|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26489.%E2%80%85Gum%E2%80%85Gum%E2%80%85for%E2%80%85Jay%E2%80%85Jay/Gum%E2%80%85Gum%E2%80%85for%E2%80%85Jay%E2%80%85Jay.cc)|
 |26545. Mathematics|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26545.%E2%80%85Mathematics/Mathematics.cc)|
+|26574. Copier|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26574.%E2%80%85Copier/Copier.cc)|
 |26711. A＋B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26711.%E2%80%85A%EF%BC%8BB/A%EF%BC%8BB.py)|
 |2702. 초6 수학|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2702.%E2%80%85%EC%B4%886%E2%80%85%EC%88%98%ED%95%99/%EC%B4%886%E2%80%85%EC%88%98%ED%95%99.cc)|
 |27110. 특식 배부|[링크](./%EB%B0%B1%EC%A4%80/Bronze/27110.%E2%80%85%ED%8A%B9%EC%8B%9D%E2%80%85%EB%B0%B0%EB%B6%80/%ED%8A%B9%EC%8B%9D%E2%80%85%EB%B0%B0%EB%B6%80.cc)|
