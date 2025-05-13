@@ -202,6 +202,7 @@
 |26545. Mathematics|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26545.%E2%80%85Mathematics/Mathematics.cc)|
 |26574. Copier|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26574.%E2%80%85Copier/README.md)|
 |26711. A＋B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26711.%E2%80%85A%EF%BC%8BB/A%EF%BC%8BB.py)|
+|26766. Serca|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26766.%E2%80%85Serca/README.md)|
 |2702. 초6 수학|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2702.%E2%80%85%EC%B4%886%E2%80%85%EC%88%98%ED%95%99/%EC%B4%886%E2%80%85%EC%88%98%ED%95%99.cc)|
 |27110. 특식 배부|[링크](./%EB%B0%B1%EC%A4%80/Bronze/27110.%E2%80%85%ED%8A%B9%EC%8B%9D%E2%80%85%EB%B0%B0%EB%B6%80/%ED%8A%B9%EC%8B%9D%E2%80%85%EB%B0%B0%EB%B6%80.cc)|
 |2720. 세탁소 사장 동혁|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2720.%E2%80%85%EC%84%B8%ED%83%81%EC%86%8C%E2%80%85%EC%82%AC%EC%9E%A5%E2%80%85%EB%8F%99%ED%98%81/README.md)|
