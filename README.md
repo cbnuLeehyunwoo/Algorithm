@@ -507,4 +507,5 @@
 | 문제번호 | 링크 |
 | ----- | ----- |
 |1237. 정ㅋ벅ㅋ|[링크](./%EB%B0%B1%EC%A4%80/Unrated/1237.%E2%80%85%EC%A0%95%E3%85%8B%EB%B2%85%E3%85%8B/README.md)|
+|15802. 타노스|[링크](./%EB%B0%B1%EC%A4%80/Unrated/15802.%E2%80%85%ED%83%80%EB%85%B8%EC%8A%A4/README.md)|
 |21293. No Description 2|[링크](./%EB%B0%B1%EC%A4%80/Unrated/21293.%E2%80%85No%E2%80%85Description%E2%80%852/README.md)|
