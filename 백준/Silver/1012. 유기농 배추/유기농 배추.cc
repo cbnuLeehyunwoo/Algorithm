@@ -1,35 +1,38 @@
 #include <iostream>
 #include <queue>
-#include <cstring> // memset을 사용하기 위해 추가
+#include <algorithm>
 #define SIZE 51
 
 using namespace std;
-
-int field[SIZE][SIZE];
-bool visited[SIZE][SIZE];
-int M, N, K, x, y, cnt;
-int dx[4] = { 1, -1, 0, 0 };
-int dy[4] = { 0, 0, 1, -1 };
-
 queue<pair<int, int>> q;
 
+int grid[SIZE][SIZE];
+bool visited[SIZE][SIZE];
+int dx[4] = { 0, 0, 1, -1 };
+int dy[4] = { 1, -1, 0, 0 };
+int M, N, K, res;
+
+void init() {
+	fill(&visited[0][0], &visited[0][0] + 50 * 50, false);
+	fill(&grid[0][0], &grid[0][0] + 50 * 50, 0);
+	queue<pair<int, int>> q;
+	res = 0;
+}
+
 void bfs(int x, int y) {
-	q.push({ x, y });
 	visited[x][y] = true;
-
+	q.push({ x, y });
 	while (!q.empty()) {
-		int a = q.front().first;
-		int b = q.front().second;
+		int x = q.front().first;
+		int y = q.front().second;
 		q.pop();
-
 		for (int i = 0; i < 4; i++) {
-			int nx = a + dx[i];
-			int ny = b + dy[i];
-
-			if (nx >= 0 && nx < M && ny >= 0 && ny < N && field[nx][ny] == 1 && !visited[nx][ny]) {
-				// 이동한 좌표가 밭을 나가지 않는지, 배추가 위치한 자리인지(1인지) 방문했었는지(vistied 배열이 false인지)
-				q.push({ nx, ny });  // 조건을 만족하면 해당 좌표의 주변에 대해 탐색을 시도하기 위해 큐에 푸쉬
-				visited[nx][ny] = true;  // 방문했음 표시
+			int nx = x + dx[i];
+			int ny = y + dy[i];
+			if (nx >= 0 && ny >= 0 && nx < M && ny < N &&
+				grid[nx][ny] == 1 && !visited[nx][ny]) {
+				visited[nx][ny] = true;
+				q.push({ nx, ny });
 			}
 		}
 	}
@@ -39,28 +42,23 @@ int main() {
 	int T;
 	cin >> T;
 
-	for (int t = 0; t < T; t++) {
+	for (int i = 0; i < T; i++) {
+		init();
 		cin >> M >> N >> K;
-		memset(field, 0, sizeof(field)); // 배열 전체 초기화
-		memset(visited, 0, sizeof(visited)); // 배열 전체 초기화
-
-		for (int i = 0; i < K; i++) {
-			cin >> x >> y;
-			field[x][y] = 1; // 배추가 있는 곳의 좌표값을 1로 설정(없는 곳은 0)
+		for (int j = 0; j < K; j++) {
+			int a, b;
+			cin >> a >> b;
+			grid[a][b] = 1;
 		}
-
-		cnt = 0;
-		for (int i = 0; i < M; i++) { // M은 행의 수
-			for (int j = 0; j < N; j++) { // N은 열의 수
-				if (field[i][j] == 1 && !visited[i][j]) {
-					bfs(i, j);
-					cnt++; // bfs가 끝났다는 것은 연결된 하나의 배추군집탐색을 완료한 것이므로 증가
+		for (int x = 0; x < M; x++) {
+			for (int y = 0; y < N; y++) {
+				if (grid[x][y] == 1 && !visited[x][y]) {
+					bfs(x, y);
+					res++;
 				}
 			}
 		}
-
-		cout << cnt << endl; // 각 테스트 케이스의 결과를 출력
+		cout << res << "\n";
 	}
-
-	return 0;
+	
 }
