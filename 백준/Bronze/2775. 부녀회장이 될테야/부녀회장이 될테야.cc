@@ -1,31 +1,32 @@
 #include <iostream>
+#include <algorithm>
+#include <vector>
 using namespace std;
+int grid[16][16];
 
-int apt[101][15];
+void init() {
+	for (int i = 1; i <= 15; i++) {
+		grid[0][i] = i;
+	}
+}
 
+void build_dp() {
+	for (int i = 1; i <= 15; i++) {
+		for (int j = 1; j <= 15; j++) {
+			for (int k = 1; k <= j; k++) {
+				grid[i][j] += grid[i - 1][k];
+			}
+		}
+	}
+}
 int main() {
-    // Test Case 입력
-    int t;
-    cin >> t;
-
-    while (t--) {
-        // k <= 1, n <= 14  
-        int k, n;
-        cin >> k >> n;
-
-        for (int i = 0; i <= k; i++) {
-            for (int j = 1; j <= n; j++) {
-                if (i == 0) {
-                    apt[0][j] = j;
-                }
-                else if (j == 1) {
-                    apt[i][1] = 1;
-                }
-                else {
-                    apt[i][j] = apt[i][j - 1] + apt[i - 1][j];
-                }
-            }
-        }
-        cout << apt[k][n] << "\n";
-    }
+	int t;
+	cin >> t;
+	init();
+	build_dp();
+	for (int i = 0; i < t; i++) {
+		int k, n;
+		cin >> k >> n;
+		cout << grid[k][n] << "\n";
+	}
 }
