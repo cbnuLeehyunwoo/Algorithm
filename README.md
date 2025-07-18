@@ -329,6 +329,7 @@
 |32314. Christmas Tree Adapter|[링크](./%EB%B0%B1%EC%A4%80/Bronze/32314.%E2%80%85Christmas%E2%80%85Tree%E2%80%85Adapter/Christmas%E2%80%85Tree%E2%80%85Adapter.cc)|
 |32326. Conveyor Belt Sushi|[링크](./%EB%B0%B1%EC%A4%80/Bronze/32326.%E2%80%85Conveyor%E2%80%85Belt%E2%80%85Sushi/Conveyor%E2%80%85Belt%E2%80%85Sushi.cc)|
 |32384. 사랑은 고려대입니다|[링크](./%EB%B0%B1%EC%A4%80/Bronze/32384.%E2%80%85%EC%82%AC%EB%9E%91%EC%9D%80%E2%80%85%EA%B3%A0%EB%A0%A4%EB%8C%80%EC%9E%85%EB%8B%88%EB%8B%A4/README.md)|
+|32437. Fractions are better when continued|[링크](./%EB%B0%B1%EC%A4%80/Bronze/32437.%E2%80%85Fractions%E2%80%85are%E2%80%85better%E2%80%85when%E2%80%85continued/README.md)|
 |32498. Call for Problems|[링크](./%EB%B0%B1%EC%A4%80/Bronze/32498.%E2%80%85Call%E2%80%85for%E2%80%85Problems/README.md)|
 |32651. 인간은 무엇인가|[링크](./%EB%B0%B1%EC%A4%80/Bronze/32651.%E2%80%85%EC%9D%B8%EA%B0%84%EC%9D%80%E2%80%85%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/%EC%9D%B8%EA%B0%84%EC%9D%80%E2%80%85%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.cc)|
 |32684. 장기|[링크](./%EB%B0%B1%EC%A4%80/Bronze/32684.%E2%80%85%EC%9E%A5%EA%B8%B0/README.md)|
