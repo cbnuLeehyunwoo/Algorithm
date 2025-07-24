@@ -331,6 +331,7 @@
 |32288. 바코드 닉네임|[링크](./%EB%B0%B1%EC%A4%80/Bronze/32288.%E2%80%85%EB%B0%94%EC%BD%94%EB%93%9C%E2%80%85%EB%8B%89%EB%84%A4%EC%9E%84/README.md)|
 |32314. Christmas Tree Adapter|[링크](./%EB%B0%B1%EC%A4%80/Bronze/32314.%E2%80%85Christmas%E2%80%85Tree%E2%80%85Adapter/Christmas%E2%80%85Tree%E2%80%85Adapter.cc)|
 |32326. Conveyor Belt Sushi|[링크](./%EB%B0%B1%EC%A4%80/Bronze/32326.%E2%80%85Conveyor%E2%80%85Belt%E2%80%85Sushi/Conveyor%E2%80%85Belt%E2%80%85Sushi.cc)|
+|32369. 양파 실험|[링크](./%EB%B0%B1%EC%A4%80/Bronze/32369.%E2%80%85%EC%96%91%ED%8C%8C%E2%80%85%EC%8B%A4%ED%97%98/README.md)|
 |32384. 사랑은 고려대입니다|[링크](./%EB%B0%B1%EC%A4%80/Bronze/32384.%E2%80%85%EC%82%AC%EB%9E%91%EC%9D%80%E2%80%85%EA%B3%A0%EB%A0%A4%EB%8C%80%EC%9E%85%EB%8B%88%EB%8B%A4/README.md)|
 |32437. Fractions are better when continued|[링크](./%EB%B0%B1%EC%A4%80/Bronze/32437.%E2%80%85Fractions%E2%80%85are%E2%80%85better%E2%80%85when%E2%80%85continued/README.md)|
 |32498. Call for Problems|[링크](./%EB%B0%B1%EC%A4%80/Bronze/32498.%E2%80%85Call%E2%80%85for%E2%80%85Problems/README.md)|
