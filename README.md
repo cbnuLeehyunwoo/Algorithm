@@ -226,6 +226,7 @@
 |26082. WARBOY|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26082.%E2%80%85WARBOY/README.md)|
 |2609. 최대공약수와 최소공배수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2609.%E2%80%85%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%E2%80%85%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/README.md)|
 |26209. Intercepting Information|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26209.%E2%80%85Intercepting%E2%80%85Information/README.md)|
+|26264. 빅데이터？ 정보보호！|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26264.%E2%80%85%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EF%BC%9F%E2%80%85%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%EF%BC%81/README.md)|
 |26307. Correct|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26307.%E2%80%85Correct/README.md)|
 |26489. Gum Gum for Jay Jay|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26489.%E2%80%85Gum%E2%80%85Gum%E2%80%85for%E2%80%85Jay%E2%80%85Jay/README.md)|
 |26545. Mathematics|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26545.%E2%80%85Mathematics/README.md)|
