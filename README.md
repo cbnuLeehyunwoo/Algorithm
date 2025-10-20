@@ -399,6 +399,7 @@
 |34161. OO0OO|[링크](./%EB%B0%B1%EC%A4%80/Bronze/34161.%E2%80%85OO0OO/README.md)|
 |34236. 숭고한에 어서오세요|[링크](./%EB%B0%B1%EC%A4%80/Bronze/34236.%E2%80%85%EC%88%AD%EA%B3%A0%ED%95%9C%EC%97%90%E2%80%85%EC%96%B4%EC%84%9C%EC%98%A4%EC%84%B8%EC%9A%94/README.md)|
 |34281. Class Photo|[링크](./%EB%B0%B1%EC%A4%80/Bronze/34281.%E2%80%85Class%E2%80%85Photo/README.md)|
+|34297. Parking Pandemonium|[링크](./%EB%B0%B1%EC%A4%80/Bronze/34297.%E2%80%85Parking%E2%80%85Pandemonium/README.md)|
 |34509. 2， 4， 6， 8|[링크](./%EB%B0%B1%EC%A4%80/Bronze/34509.%E2%80%852%EF%BC%8C%E2%80%854%EF%BC%8C%E2%80%856%EF%BC%8C%E2%80%858/README.md)|
 |34529. Acquiring SW－IT Corn|[링크](./%EB%B0%B1%EC%A4%80/Bronze/34529.%E2%80%85Acquiring%E2%80%85SW%EF%BC%8DIT%E2%80%85Corn/README.md)|
 |3733. Shares|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3733.%E2%80%85Shares/README.md)|
