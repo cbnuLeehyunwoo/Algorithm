@@ -403,6 +403,7 @@
 |34362. Above|[링크](./%EB%B0%B1%EC%A4%80/Bronze/34362.%E2%80%85Above/README.md)|
 |34411. M－Climb|[링크](./%EB%B0%B1%EC%A4%80/Bronze/34411.%E2%80%85M%EF%BC%8DClimb/README.md)|
 |34424. Flatter Land|[링크](./%EB%B0%B1%EC%A4%80/Bronze/34424.%E2%80%85Flatter%E2%80%85Land/README.md)|
+|34443. Hack－a－Holics|[링크](./%EB%B0%B1%EC%A4%80/Bronze/34443.%E2%80%85Hack%EF%BC%8Da%EF%BC%8DHolics/Hack%EF%BC%8Da%EF%BC%8DHolics.kt)|
 |34446. E－Days Ore Cart Pull|[링크](./%EB%B0%B1%EC%A4%80/Bronze/34446.%E2%80%85E%EF%BC%8DDays%E2%80%85Ore%E2%80%85Cart%E2%80%85Pull/E%EF%BC%8DDays%E2%80%85Ore%E2%80%85Cart%E2%80%85Pull.cc)|
 |34509. 2， 4， 6， 8|[링크](./%EB%B0%B1%EC%A4%80/Bronze/34509.%E2%80%852%EF%BC%8C%E2%80%854%EF%BC%8C%E2%80%856%EF%BC%8C%E2%80%858/2%EF%BC%8C%E2%80%854%EF%BC%8C%E2%80%856%EF%BC%8C%E2%80%858.cc)|
 |34529. Acquiring SW－IT Corn|[링크](./%EB%B0%B1%EC%A4%80/Bronze/34529.%E2%80%85Acquiring%E2%80%85SW%EF%BC%8DIT%E2%80%85Corn/README.md)|
