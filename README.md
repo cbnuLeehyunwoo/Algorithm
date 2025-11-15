@@ -410,6 +410,7 @@
 |34281. Class Photo|[링크](./%EB%B0%B1%EC%A4%80/Bronze/34281.%E2%80%85Class%E2%80%85Photo/Class%E2%80%85Photo.kt)|
 |34297. Parking Pandemonium|[링크](./%EB%B0%B1%EC%A4%80/Bronze/34297.%E2%80%85Parking%E2%80%85Pandemonium/Parking%E2%80%85Pandemonium.kt)|
 |34323. 할인이 필요해|[링크](./%EB%B0%B1%EC%A4%80/Bronze/34323.%E2%80%85%ED%95%A0%EC%9D%B8%EC%9D%B4%E2%80%85%ED%95%84%EC%9A%94%ED%95%B4/README.md)|
+|34346. 대각선|[링크](./%EB%B0%B1%EC%A4%80/Bronze/34346.%E2%80%85%EB%8C%80%EA%B0%81%EC%84%A0/%EB%8C%80%EA%B0%81%EC%84%A0.cc)|
 |34362. Above|[링크](./%EB%B0%B1%EC%A4%80/Bronze/34362.%E2%80%85Above/README.md)|
 |34411. M－Climb|[링크](./%EB%B0%B1%EC%A4%80/Bronze/34411.%E2%80%85M%EF%BC%8DClimb/README.md)|
 |34424. Flatter Land|[링크](./%EB%B0%B1%EC%A4%80/Bronze/34424.%E2%80%85Flatter%E2%80%85Land/README.md)|
