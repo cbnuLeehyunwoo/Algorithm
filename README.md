@@ -342,6 +342,7 @@
 |3009. 네 번째 점|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3009.%E2%80%85%EB%84%A4%E2%80%85%EB%B2%88%EC%A7%B8%E2%80%85%EC%A0%90/README.md)|
 |30214. An Easy－Peasy Problem|[링크](./%EB%B0%B1%EC%A4%80/Bronze/30214.%E2%80%85An%E2%80%85Easy%EF%BC%8DPeasy%E2%80%85Problem/An%E2%80%85Easy%EF%BC%8DPeasy%E2%80%85Problem.cc)|
 |30224. Lucky 7|[링크](./%EB%B0%B1%EC%A4%80/Bronze/30224.%E2%80%85Lucky%E2%80%857/Lucky%E2%80%857.cc)|
+|3028. 창영마을|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3028.%E2%80%85%EC%B0%BD%EC%98%81%EB%A7%88%EC%9D%84/README.md)|
 |3029. 경고|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3029.%E2%80%85%EA%B2%BD%EA%B3%A0/%EA%B2%BD%EA%B3%A0.cc)|
 |30328. Java Warriors|[링크](./%EB%B0%B1%EC%A4%80/Bronze/30328.%E2%80%85Java%E2%80%85Warriors/Java%E2%80%85Warriors.py)|
 |30402. 감마선을 맞은 컴퓨터|[링크](./%EB%B0%B1%EC%A4%80/Bronze/30402.%E2%80%85%EA%B0%90%EB%A7%88%EC%84%A0%EC%9D%84%E2%80%85%EB%A7%9E%EC%9D%80%E2%80%85%EC%BB%B4%ED%93%A8%ED%84%B0/README.md)|
