@@ -484,6 +484,7 @@
 |8545. Zadanie próbne|[링크](./%EB%B0%B1%EC%A4%80/Bronze/8545.%E2%80%85Zadanie%E2%80%85pr%C3%B3bne/Zadanie%E2%80%85pr%C3%B3bne.cc)|
 |8871. Zadanie próbne 2|[링크](./%EB%B0%B1%EC%A4%80/Bronze/8871.%E2%80%85Zadanie%E2%80%85pr%C3%B3bne%E2%80%852/Zadanie%E2%80%85pr%C3%B3bne%E2%80%852.cc)|
 |8958. OX퀴즈|[링크](./%EB%B0%B1%EC%A4%80/Bronze/8958.%E2%80%85OX%ED%80%B4%EC%A6%88/README.md)|
+|9085. 더하기|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9085.%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0/%EB%8D%94%ED%95%98%EA%B8%B0.kt)|
 |9086. 문자열|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9086.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%AC%B8%EC%9E%90%EC%97%B4.cc)|
 |9094. 수학적 호기심|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9094.%E2%80%85%EC%88%98%ED%95%99%EC%A0%81%E2%80%85%ED%98%B8%EA%B8%B0%EC%8B%AC/README.md)|
 |9295. 주사위|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9295.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84/README.md)|
