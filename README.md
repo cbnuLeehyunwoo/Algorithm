@@ -444,6 +444,7 @@
 |34849. 이중 반복문|[링크](./%EB%B0%B1%EC%A4%80/Bronze/34849.%E2%80%85%EC%9D%B4%EC%A4%91%E2%80%85%EB%B0%98%EB%B3%B5%EB%AC%B8/%EC%9D%B4%EC%A4%91%E2%80%85%EB%B0%98%EB%B3%B5%EB%AC%B8.kt)|
 |34891. MT 준비|[링크](./%EB%B0%B1%EC%A4%80/Bronze/34891.%E2%80%85MT%E2%80%85%EC%A4%80%EB%B9%84/README.md)|
 |3733. Shares|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3733.%E2%80%85Shares/Shares.cc)|
+|3765. Celebrity jeopardy|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3765.%E2%80%85Celebrity%E2%80%85jeopardy/Celebrity%E2%80%85jeopardy.kt)|
 |4101. 크냐？|[링크](./%EB%B0%B1%EC%A4%80/Bronze/4101.%E2%80%85%ED%81%AC%EB%83%90%EF%BC%9F/%ED%81%AC%EB%83%90%EF%BC%9F.cc)|
 |4153. 직각삼각형|[링크](./%EB%B0%B1%EC%A4%80/Bronze/4153.%E2%80%85%EC%A7%81%EA%B0%81%EC%82%BC%EA%B0%81%ED%98%95/README.md)|
 |4299. AFC 윔블던|[링크](./%EB%B0%B1%EC%A4%80/Bronze/4299.%E2%80%85AFC%E2%80%85%EC%9C%94%EB%B8%94%EB%8D%98/AFC%E2%80%85%EC%9C%94%EB%B8%94%EB%8D%98.cc)|
