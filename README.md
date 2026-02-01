@@ -445,6 +445,7 @@
 |34824. 연대 다음 고대|[링크](./%EB%B0%B1%EC%A4%80/Bronze/34824.%E2%80%85%EC%97%B0%EB%8C%80%E2%80%85%EB%8B%A4%EC%9D%8C%E2%80%85%EA%B3%A0%EB%8C%80/README.md)|
 |34849. 이중 반복문|[링크](./%EB%B0%B1%EC%A4%80/Bronze/34849.%E2%80%85%EC%9D%B4%EC%A4%91%E2%80%85%EB%B0%98%EB%B3%B5%EB%AC%B8/%EC%9D%B4%EC%A4%91%E2%80%85%EB%B0%98%EB%B3%B5%EB%AC%B8.kt)|
 |34891. MT 준비|[링크](./%EB%B0%B1%EC%A4%80/Bronze/34891.%E2%80%85MT%E2%80%85%EC%A4%80%EB%B9%84/README.md)|
+|34934. 신규 학과|[링크](./%EB%B0%B1%EC%A4%80/Bronze/34934.%E2%80%85%EC%8B%A0%EA%B7%9C%E2%80%85%ED%95%99%EA%B3%BC/%EC%8B%A0%EA%B7%9C%E2%80%85%ED%95%99%EA%B3%BC.kt)|
 |3733. Shares|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3733.%E2%80%85Shares/Shares.cc)|
 |3765. Celebrity jeopardy|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3765.%E2%80%85Celebrity%E2%80%85jeopardy/Celebrity%E2%80%85jeopardy.kt)|
 |4101. 크냐？|[링크](./%EB%B0%B1%EC%A4%80/Bronze/4101.%E2%80%85%ED%81%AC%EB%83%90%EF%BC%9F/%ED%81%AC%EB%83%90%EF%BC%9F.cc)|
